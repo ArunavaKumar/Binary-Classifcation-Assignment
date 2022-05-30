@@ -41,4 +41,14 @@ During the analysis, it has been found that the **Random Forest** classifier out
 In the future, the feature selection method can be improved for better performance of these machine learning models. In order to achieve better classification accuracy, these machine learning models can be improved by finding the best parameters during the training phase.
 
 
+**Required Packages**
+
+In order to run all the experiments, please install the following packages in your system.
+- pandas==1.3.4
+- numpy==1.20.3
+- matplotlib==3.4.3
+- seaborn==0.11.0
+- scikit-learn==1.0.2
+
+
 #### - By Arunava Kumar Chakraborty
