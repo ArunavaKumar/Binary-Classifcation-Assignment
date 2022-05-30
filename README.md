@@ -13,17 +13,22 @@ In this experiment, the datasets will be per-processed to clean the noise. Then 
 
 ### Workflow of the Project:
 
-    i. Data Preprocessing
-       - Rename the unnamed column
-       - Missing Values Removal
-       - Outliers Removal
+    i. **Data Preprocessing**
+       a. Rename the unnamed column
+       b. Missing Values Removal
+       c. Outliers Removal
 
-        ii. Feature Extraction
-            - Correlation Analysis [Train Data]
-            - Feature Selection
+        ii. **Feature Extraction**
+            a. Correlation Analysis [Train Data]
+            b. Feature Selection
     
-            iii. Predictive Analysis
-                 - Train-Val-Test Split
-                 - Classification Models
+            iii. **Predictive Analysis**
+                 a. Train-Val-Test Split
+                 b. Classification Models
+                    - Logistic Regression Model
+                    - KNN Classification Model
+                    - Decision Tree Regression Model
+                    - AdaBoost Regression Model
+                    - Random Forest Classification Model
                     
 #### - By Arunava Kumar Chakraborty
